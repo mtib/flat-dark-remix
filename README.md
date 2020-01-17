@@ -1,6 +1,6 @@
 # Flat Dark Remix VSCode
 
-I made this from scratch bc there wasn't a Flat Remix VSCode Theme. The file icon theme of the screenshot is "Material Icon Theme".
+I made this from scratch bc there wasn't a Flat Remix VSCode Theme. The file icon theme of the screenshot is "Material Icon Theme". Available on the [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=mtib.flat-dark-remix).
 
 ![Screenshot](res/screenshot.png)
 
