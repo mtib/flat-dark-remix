@@ -1,8 +1,10 @@
 {
     "name": "flat-dark-remix",
-    "displayName": "flat-dark-remix",
-    "description": "",
+    "displayName": "Flat Dark Remix",
+    "keywords": ["theme", "flat", "dark", "remix"],
+    "description": "Flat Dark Remix Theme",
     "version": "0.0.1",
+	"publisher": "mtib",
     "engines": {
         "vscode": "^1.41.0"
     },
@@ -17,5 +19,9 @@
                 "path": "./themes/Flat Dark Remix-color-theme.json"
             }
         ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mtib/flat-dark-remix.git"
     }
 }
